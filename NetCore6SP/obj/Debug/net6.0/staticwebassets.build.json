@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jUqsPPQoXkNmznz71Wi9uB07IhoPwdxtDG18eO6wxJM=",
+  "Source": "NetCore6SP",
+  "BasePath": "_content/NetCore6SP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
